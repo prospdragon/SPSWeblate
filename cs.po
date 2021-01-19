@@ -1,0 +1,450 @@
+# Czech translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-07-08 21:53+0800\n"
+"PO-Revision-Date: 2020-12-29 20:13+0800\n"
+"Language: cs_CZ\n"
+"Language-Team: cz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: EPSConverter/routes.py:76
+msgid "Unknown error occurred."
+msgstr "Nastala neočekávaná chyba."
+
+#: EPSConverter/routes.py:76
+msgid "Please contact to admin."
+msgstr "Prosím ozvěte se správci."
+
+#: EPSConverter/routes.py:80
+msgid "Please input a valid type of file."
+msgstr "Prosím nahrajte vhodný typ souboru."
+
+#: EPSConverter/routes.py:119 EPSConverter/routes.py:134
+msgid "Success to convert."
+msgstr "Konverze proběhla úspěšně."
+
+#: EPSConverter/routes.py:127
+msgid "There not exist eps file in this zip."
+msgstr "V tomto ZIPu není EPS soubor ke konverzi."
+
+#: EPSConverter/routes.py:235 EPSConverter/routes.py:295
+msgid "Failed to process."
+msgstr "Nepodařilo se soubor převést."
+
+#: EPSConverter/templates/ie.jinja2:32
+msgid "Sorry, you are using an unsupported browser"
+msgstr "Omlouváme se, váš prohlížeč není podporován"
+
+#: EPSConverter/templates/ie.jinja2:32
+msgid "please use"
+msgstr "použijte prosím"
+
+#: EPSConverter/templates/ie.jinja2:32 EPSConverter/templates/index.jinja2:62
+#: EPSConverter/templates/index.jinja2:117
+msgid "or"
+msgstr "či"
+
+#: EPSConverter/templates/ie.jinja2:32
+msgid "to convert your EPS-File."
+msgstr "ke konverzi vašeho EPSu."
+
+#: EPSConverter/templates/ie.jinja2:38 EPSConverter/templates/layout.jinja2:78
+msgid "Copyright"
+msgstr "Copyright"
+
+#: EPSConverter/templates/ie.jinja2:38 EPSConverter/templates/layout.jinja2:78
+msgid "All rights reserved."
+msgstr "Všechna práva vyhrazena."
+
+#: EPSConverter/templates/ie.jinja2:39 EPSConverter/templates/layout.jinja2:79
+msgid "Usage Policy"
+msgstr "Podmínky užití"
+
+#: EPSConverter/templates/ie.jinja2:40 EPSConverter/templates/layout.jinja2:80
+msgid "Personal Data"
+msgstr "Ochrana osobních dat"
+
+#: EPSConverter/templates/ie.jinja2:41 EPSConverter/templates/layout.jinja2:81
+msgid "Contact"
+msgstr "Kontakt"
+
+#: EPSConverter/templates/index.jinja2:11
+msgid "Open"
+msgstr "Otevřít"
+
+#: EPSConverter/templates/index.jinja2:11
+msgid "file format"
+msgstr "soubor"
+
+#: EPSConverter/templates/index.jinja2:11
+#: EPSConverter/templates/index.jinja2:83
+#: EPSConverter/templates/index.jinja2:144
+#: EPSConverter/templates/index.jinja2:249
+msgid "Free"
+msgstr "Zdarma"
+
+#: EPSConverter/templates/index.jinja2:14
+msgid "Converting"
+msgstr "Konverze"
+
+#: EPSConverter/templates/index.jinja2:19
+msgid "Done"
+msgstr "Hotovo"
+
+#: EPSConverter/templates/index.jinja2:20
+#: EPSConverter/templates/index.jinja2:33
+#: EPSConverter/templates/index.jinja2:92
+msgid "Convert another"
+msgstr "Převést další"
+
+#: EPSConverter/templates/index.jinja2:42
+msgid "File needs supervision"
+msgstr "Soubor vyžaduje kontrolu"
+
+#: EPSConverter/templates/index.jinja2:48
+msgid "Report a broken file"
+msgstr "Oznámit poškozený soubor"
+
+#: EPSConverter/templates/index.jinja2:58
+msgid "Choose From Disk"
+msgstr "Nahrát obrázek"
+
+#: EPSConverter/templates/index.jinja2:61
+#: EPSConverter/templates/index.jinja2:118
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: EPSConverter/templates/index.jinja2:63
+msgid "Start over"
+msgstr "Začít znovu"
+
+#: EPSConverter/templates/index.jinja2:71
+msgid "crop & select"
+msgstr "vybrat ořez"
+
+#: EPSConverter/templates/index.jinja2:83
+msgid "Let us help you"
+msgstr "Rádi vám pomůžeme"
+
+#: EPSConverter/templates/index.jinja2:85
+msgid "Your file might be in a wrong format and might need supervisors’ eye check."
+msgstr "Váš soubor může mít špatný formát a vyžadovat kontrolu odborníkem."
+
+#: EPSConverter/templates/index.jinja2:86
+msgid "Ask for"
+msgstr "Vyžádejte si"
+
+#: EPSConverter/templates/index.jinja2:86
+msgid "manual assistance"
+msgstr "rozbor odborníka"
+
+#: EPSConverter/templates/index.jinja2:86
+msgid "for free"
+msgstr "zdarma"
+
+#: EPSConverter/templates/index.jinja2:89
+msgid "Get help!"
+msgstr "Získat pomoc!"
+
+#: EPSConverter/templates/index.jinja2:96
+msgid "Your file might be in a wrong format and was not converted."
+msgstr "Váš soubor může mít špatný formát a nebyl převeden."
+
+#: EPSConverter/templates/index.jinja2:103
+msgid "Your e-mail"
+msgstr "Váš e-mail"
+
+#: EPSConverter/templates/index.jinja2:108
+msgid "Agree with the"
+msgstr "Souhlas s"
+
+#: EPSConverter/templates/index.jinja2:108
+msgid "Terms of use"
+msgstr "Podmínkami užití"
+
+#: EPSConverter/templates/index.jinja2:108
+msgid "of SPS Converter"
+msgstr "SPS Konvertoru"
+
+#: EPSConverter/templates/index.jinja2:113
+msgid "Send request"
+msgstr "Odeslat požadavek"
+
+#: EPSConverter/templates/index.jinja2:124
+msgid "Your file might be in a wrong format and cause display issues."
+msgstr "Váš soubor může mít špatný formát a zobrazovat se špatně."
+
+#: EPSConverter/templates/index.jinja2:130
+#, python-format
+msgid "%(mb)d MB maximum file size."
+msgstr "Až %(mb)dMB na soubor."
+
+#: EPSConverter/templates/index.jinja2:130
+#, python-format
+msgid "For %(mb)d MB"
+msgstr "Pro velikost až %(mb)d MB se"
+
+#: EPSConverter/templates/index.jinja2:131
+#: EPSConverter/templates/signup.jinja2:14
+msgid "Sign Up"
+msgstr "Přihlašte"
+
+#: EPSConverter/templates/index.jinja2:151
+msgid "FREE IN BETA"
+msgstr "NYNÍ ZDARMA"
+
+#: EPSConverter/templates/index.jinja2:164
+msgid "ALL ZIPPED"
+msgstr "vše v ZIPu"
+
+#: EPSConverter/templates/index.jinja2:177
+#: EPSConverter/templates/index.jinja2:266
+msgid "Image"
+msgstr "Obrázek"
+
+#: EPSConverter/templates/index.jinja2:220
+#: EPSConverter/templates/layout.jinja2:4
+#: EPSConverter/templates/layout.jinja2:7
+#: EPSConverter/templates/layout.jinja2:45
+msgid "Online EPS Converter"
+msgstr "Převod EPS online"
+
+#: EPSConverter/templates/index.jinja2:230
+msgid "back"
+msgstr "ZPĚT"
+
+#: EPSConverter/templates/index.jinja2:236
+msgid "crop"
+msgstr "ořez"
+
+#: EPSConverter/templates/index.jinja2:259
+msgid "Premium"
+msgstr "Premium"
+
+#: EPSConverter/templates/layout.jinja2:30
+msgid "Drag & drop .eps here"
+msgstr "Přetáhněte .eps sem"
+
+#: EPSConverter/templates/layout.jinja2:31
+msgid "pixels"
+msgstr "pixelů"
+
+#: EPSConverter/templates/layout.jinja2:32
+msgid "Please select to crop."
+msgstr "Vyberte ořez."
+
+#: EPSConverter/templates/layout.jinja2:33
+msgid "Failed to crop. please try again."
+msgstr "Ořez se nezdařil, zkuste to znovu."
+
+#: EPSConverter/templates/layout.jinja2:34
+msgid "Success to report. Thank you."
+msgstr "Relatório com sucesso. Obrigado."
+
+#: EPSConverter/templates/layout.jinja2:50
+msgid "News"
+msgstr "Novinky"
+
+#: EPSConverter/templates/layout.jinja2:51
+msgid "Pricing"
+msgstr "Ceník"
+
+#: EPSConverter/templates/layout.jinja2:52
+msgid "Help"
+msgstr "Pomoc"
+
+#: EPSConverter/templates/layout.jinja2:53
+msgid "Login"
+msgstr "Přihlášení"
+
+#: EPSConverter/templates/layout.jinja2:180
+msgid "Small size"
+msgstr "Malý"
+
+#: EPSConverter/templates/layout.jinja2:181
+msgid "Medium size"
+msgstr "Střední"
+
+#: EPSConverter/templates/layout.jinja2:182
+msgid "Large size"
+msgstr "Velký"
+
+#: EPSConverter/templates/layout.jinja2:82
+msgid "Privacy Policy"
+msgstr "Ochrana osobních dat"
+
+#: EPSConverter/templates/layout.jinja2:83
+msgid "Terms of Use"
+msgstr "Podmínky užití"
+
+#: EPSConverter/templates/layout.jinja2:272
+msgid "Cropped image"
+msgstr "Imagem recortada"
+
+#: EPSConverter/templates/index.jinja2:73
+msgid "%(num)d Free images"
+msgstr "%(num)d obrázků zdarma"
+
+#: EPSConverter/templates/index.jinja2:74
+msgid "Vector files & stock photos"
+msgstr "Vektory a levné fotografie"
+
+#: EPSConverter/templates/index.jinja2:78
+msgid "Shutterstock partnered with us to give you special offer of <b>%(num)d free vectors</b> or stock photos from millions of safe images. And on top — access to the world’s largest image selection. Sound’s cool? Limited offer. Hurry up!"
+msgstr "Shutterstock spolu s námipřipravil exkluzivní nabídku <b>%(num)d vektorů</b> nebo fotografií zdarma. Výběr z milionů bezpečných obrázků. A ještě navíc — přístup do největší fotobanky na světě. Zní to dobře? Akce nepotrvá věčně. Jděte na to!"
+
+#: EPSConverter/templates/index.jinja2:240
+msgid "<b>%(mb)d%%</b> OFF"
+msgstr "<b>%(mb)d%%</b> sleva"
+
+#: EPSConverter/templates/index.jinja2:241
+msgid "Vectors special offer"
+msgstr "Akce na vektory"
+
+#: EPSConverter/templates/index.jinja2:245
+msgid "iStock partnered with us to give you whopping <b>%(per)d %% discount</b> on their vectors & photos. And access to the largest exclusive image selection. Apply to <b>any credit packs</b> and <b>subscriptions</b>. Sound’s cool? Limited offer. Hurry up!"
+msgstr "iStock spolu s námi připravil úžasných <b>%(per)d %%  slevu</b> na jejich fotky a vektory. A získejte přitom přístup do největší fotobanky s exkluzivním obsahem. Nabídka platí pro <b>libovolné kredity</b> a <b>předplatná</b>. Zní to dobře? Nabídka netrvá věčně! Vrhněte se na to!"
+
+#: EPSConverter/templates/index.jinja2:247
+msgid "REDEEM NOW"
+msgstr "Získat výhody"
+
+#: EPSConverter/templates/layout.jinja2:35
+msgid "Image Upscaler"
+msgstr "Upscaler obrázků"
+
+#: EPSConverter/templates/index.jinja2:276
+msgid "Batch Conversion"
+msgstr "Dávková konverze"
+
+#: EPSConverter/templates/index.jinja2:278
+msgid "Converting multiple EPS vector files at once? No problem. Just upload a ZIP with your EPS files and get a ZIP with JPEGs in return."
+msgstr "Převod více vektorových souborů EPS najednou? Žádný problém. Jednoduše nahrajte ZIP se svými soubory EPS a na oplátku získáte ZIP s JPEG."
+
+#: EPSConverter/templates/index.jinja2:280
+msgid "Hi-Res"
+msgstr "Plné rozlišení"
+
+#: EPSConverter/templates/index.jinja2:281
+msgid "Vector"
+msgstr "Vektory a levné fotografie"
+
+#: EPSConverter/templates/index.jinja2:290
+msgid "Crop & Extract"
+msgstr "Ořezy a výřezy"
+
+#: EPSConverter/templates/index.jinja2:292
+msgid "Have a complete control over the image result with no external software, such as Illustrator, needed."
+msgstr "Získejte úplnou kontrolu nad výsledným obrázkem bez potřeby externího softwaru, jako je Illustrator."
+
+#: EPSConverter/templates/index.jinja2:295
+msgid "Select a region of the EPS file to be extracted into a bitmap or PDF format using just a few clicks."
+msgstr "Pomocí několika kliknutí vyberte oblast souboru EPS, kterou chcete extrahovat do bitmapy nebo PDF."
+
+#: EPSConverter/templates/index.jinja2:297
+msgid "Cut-out"
+msgstr "Vyříznout"
+
+#: EPSConverter/templates/index.jinja2:298
+msgid "Details"
+msgstr "Detaily"
+
+#: EPSConverter/templates/index.jinja2:313
+msgid "Multiple File Formats"
+msgstr "Více formátů souborů"
+
+#: EPSConverter/templates/index.jinja2:315
+msgid "Converter understands EPS files on the input and delivers multiple formats on the output. And — more formats are coming as we improve Converter."
+msgstr "Konvertor rozumí souborům EPS na vstupu a na výstupu poskytuje více formátů. A jak vylepšujeme Converter, připravujeme další formáty."
+
+#: EPSConverter/templates/index.jinja2:326
+msgid "Collection of <b>%(num)s million vectors</b>."
+msgstr "Sbírka <b> %(num)s milionu vektorů </b>."
+
+#: EPSConverter/templates/index.jinja2:326
+msgid "Get <b>%(num)d vectors & photos</b> for <b>$%(price)d</b> a year</b>"
+msgstr "Získejte <b> %(num)d vektorů a fotografií </b> za <b> %(price)d$ </b> ročně"
+
+#: EPSConverter/templates/index.jinja2:327
+msgid "The Converter app is a <a href=\"https://shop.stockphotosecrets.com/\" target=\"_blank\">SPS Shop</a> creation."
+msgstr "Aplikace Konvertor je výtvorem <a href=\"https://fotobanka.cz\" target=\"_blank\"> SPS Shop </a>."
+
+#: EPSConverter/templates/index.jinja2:331
+msgid "More Cheap Vectors"
+msgstr "Více levných vektorů"
+
+#: EPSConverter/templates/index.jinja2:136
+msgid "Select issue you experienced"
+msgstr "Zvolte problém který řešíte"
+
+#: EPSConverter/templates/index.jinja2:137
+msgid "File not converting at all"
+msgstr "Soubor se vůbec nepřevádí"
+
+#: EPSConverter/templates/index.jinja2:138
+msgid "Result looks pixelated"
+msgstr "Výsledky jsou rozpixelované"
+
+#: EPSConverter/templates/index.jinja2:139
+msgid "Graphics too small"
+msgstr "Grafika je příliš malá"
+
+#: EPSConverter/templates/index.jinja2:140
+msgid "Graphics not visible"
+msgstr "Grafika není vidět vůbec"
+
+#: EPSConverter/templates/index.jinja2:141
+msgid "Othere"
+msgstr "Jiný"
+
+#: EPSConverter/templates/index.jinja2:437
+msgid "Here is your coupon code"
+msgstr "Váš slevový kupon zde"
+
+#: EPSConverter/templates/index.jinja2:438
+msgid "Code is copied. Use code on iStock website."
+msgstr "Kód byl zkopírován do schránky. Použijete na iStocku."
+
+#: EPSConverter/templates/index.jinja2:444
+msgid "Go to Website"
+msgstr "Přejít na web"
+
+#: EPSConverter/templates/index.jinja2:454
+msgid "Exclusive Deal"
+msgstr "Exkluzivní nabídka"
+
+#: EPSConverter/templates/index.jinja2:454
+msgid "%(num)d%% OFF on iStock Credits and iStock Subscriptions!"
+msgstr "%(num)d%% SLEVA na kredity iStock a předplatné iStock!"
+
+#: EPSConverter/templates/index.jinja2:478
+msgid "Exclusive Deal at"
+msgstr "Exkluzivní nabídka na"
+
+#: EPSConverter/templates/index.jinja2:476
+msgid "Free Images"
+msgstr "Obrázků Zdarma"
+
+#: EPSConverter/templates/index.jinja2:252
+msgid "<b>Download</b> similar vectors — <b>%(num)d vectors free</b>"
+msgstr "<b>Stahujte</b> podobné vektory — <b>%(num)d dostanete</b> zdarma"
+
+#: EPSConverter/templates/index.jinja2:258
+msgid "<b>%(num)d vectors free</b> from"
+msgstr "<b>%(num)d free vektorů</b> od"
+
+#: EPSConverter/templates/index.jinja2:262
+msgid "More Vectors"
+msgstr "Další vektory"

@@ -1,0 +1,450 @@
+# Dutch translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-07-08 21:53+0800\n"
+"PO-Revision-Date: 2020-12-25 18:26+0800\n"
+"Language: nl\n"
+"Language-Team: nl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: EPSConverter/routes.py:76
+msgid "Unknown error occurred."
+msgstr "Er is een onbekende fout opgetreden."
+
+#: EPSConverter/routes.py:76
+msgid "Please contact to admin."
+msgstr "Neem contact op met de beheerder."
+
+#: EPSConverter/routes.py:80
+msgid "Please input a valid type of file."
+msgstr "Voer een geldig bestandstype in."
+
+#: EPSConverter/routes.py:119 EPSConverter/routes.py:134
+msgid "Success to convert."
+msgstr "Het converteren is gelukt."
+
+#: EPSConverter/routes.py:127
+msgid "There not exist eps file in this zip."
+msgstr "Deze zip bevat geen eps-bestand."
+
+#: EPSConverter/routes.py:235 EPSConverter/routes.py:295
+msgid "Failed to process."
+msgstr "De bewerking is niet gelukt."
+
+#: EPSConverter/templates/ie.jinja2:32
+msgid "Sorry, you are using an unsupported browser"
+msgstr "Sorry, u gebruikt een niet-ondersteunde browser"
+
+#: EPSConverter/templates/ie.jinja2:32
+msgid "please use"
+msgstr "gebruik"
+
+#: EPSConverter/templates/ie.jinja2:32 EPSConverter/templates/index.jinja2:62
+#: EPSConverter/templates/index.jinja2:117
+msgid "or"
+msgstr "of"
+
+#: EPSConverter/templates/ie.jinja2:32
+msgid "to convert your EPS-File."
+msgstr "om uw EPS-bestand te converteren."
+
+#: EPSConverter/templates/ie.jinja2:38 EPSConverter/templates/layout.jinja2:78
+msgid "Copyright"
+msgstr "Auteursrechten"
+
+#: EPSConverter/templates/ie.jinja2:38 EPSConverter/templates/layout.jinja2:78
+msgid "All rights reserved."
+msgstr "Alle rechten voorbehouden."
+
+#: EPSConverter/templates/ie.jinja2:39 EPSConverter/templates/layout.jinja2:79
+msgid "Usage Policy"
+msgstr "Gebruiksvoorwaarden"
+
+#: EPSConverter/templates/ie.jinja2:40 EPSConverter/templates/layout.jinja2:80
+msgid "Personal Data"
+msgstr "Persoonsgegevens"
+
+#: EPSConverter/templates/ie.jinja2:41 EPSConverter/templates/layout.jinja2:81
+msgid "Contact"
+msgstr "Contact"
+
+#: EPSConverter/templates/index.jinja2:11
+msgid "Open"
+msgstr "Open"
+
+#: EPSConverter/templates/index.jinja2:11
+msgid "file format"
+msgstr "-bestandsformaat"
+
+#: EPSConverter/templates/index.jinja2:11
+#: EPSConverter/templates/index.jinja2:83
+#: EPSConverter/templates/index.jinja2:144
+#: EPSConverter/templates/index.jinja2:249
+msgid "Free"
+msgstr "Gratis"
+
+#: EPSConverter/templates/index.jinja2:14
+msgid "Converting"
+msgstr "Converteren"
+
+#: EPSConverter/templates/index.jinja2:19
+msgid "Done"
+msgstr "Klaar"
+
+#: EPSConverter/templates/index.jinja2:20
+#: EPSConverter/templates/index.jinja2:33
+#: EPSConverter/templates/index.jinja2:92
+msgid "Convert another"
+msgstr "Converteer een ander bestand"
+
+#: EPSConverter/templates/index.jinja2:42
+msgid "File needs supervision"
+msgstr "Controleer het bestand"
+
+#: EPSConverter/templates/index.jinja2:48
+msgid "Report a broken file"
+msgstr "Bestand is beschadigd"
+
+#: EPSConverter/templates/index.jinja2:58
+msgid "Choose From Disk"
+msgstr "Selecteer van schijf"
+
+#: EPSConverter/templates/index.jinja2:61
+#: EPSConverter/templates/index.jinja2:118
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: EPSConverter/templates/index.jinja2:63
+msgid "Start over"
+msgstr "Opnieuw beginnen"
+
+#: EPSConverter/templates/index.jinja2:71
+msgid "crop & select"
+msgstr "bijsnijden & selecteren"
+
+#: EPSConverter/templates/index.jinja2:83
+msgid "Let us help you"
+msgstr "We helpen u graag"
+
+#: EPSConverter/templates/index.jinja2:85
+msgid "Your file might be in a wrong format and might need supervisors’ eye check."
+msgstr "Controleer uw bestand, het heeft mogelijk niet het juiste formaat."
+
+#: EPSConverter/templates/index.jinja2:86
+msgid "Ask for"
+msgstr "Verzoek om gratis"
+
+#: EPSConverter/templates/index.jinja2:86
+msgid "manual assistance"
+msgstr "persoonlijke ondersteuning"
+
+#: EPSConverter/templates/index.jinja2:86
+msgid "for free"
+msgstr ""
+
+#: EPSConverter/templates/index.jinja2:89
+msgid "Get help!"
+msgstr "Vraag om hulp!"
+
+#: EPSConverter/templates/index.jinja2:96
+msgid "Your file might be in a wrong format and was not converted."
+msgstr "Uw bestand heeft wellicht niet het juiste formaat en is niet geconverteerd."
+
+#: EPSConverter/templates/index.jinja2:103
+msgid "Your e-mail"
+msgstr "Uw e-mail"
+
+#: EPSConverter/templates/index.jinja2:108
+msgid "Agree with the"
+msgstr "Ik ga akkoord met de"
+
+#: EPSConverter/templates/index.jinja2:108
+msgid "Terms of use"
+msgstr "Gebruiksvoorwaarden"
+
+#: EPSConverter/templates/index.jinja2:108
+msgid "of SPS Converter"
+msgstr "van de SPS-Converter"
+
+#: EPSConverter/templates/index.jinja2:113
+msgid "Send request"
+msgstr "Aanvraag versturen"
+
+#: EPSConverter/templates/index.jinja2:124
+msgid "Your file might be in a wrong format and cause display issues."
+msgstr "Uw bestand heeft mogelijk niet het juiste formaat waardoor er zich problemen met de weergave kunnen voordoen."
+
+#: EPSConverter/templates/index.jinja2:130
+#, python-format
+msgid "%(mb)d MB maximum file size."
+msgstr "%(mb)d MB maximale bestandsgrootte."
+
+#: EPSConverter/templates/index.jinja2:130
+#, python-format
+msgid "For %(mb)d MB"
+msgstr "Voor %(mb)d MB"
+
+#: EPSConverter/templates/index.jinja2:131
+#: EPSConverter/templates/signup.jinja2:14
+msgid "Sign Up"
+msgstr "Aanmelden"
+
+#: EPSConverter/templates/index.jinja2:151
+msgid "FREE IN BETA"
+msgstr "GRATIS IN BETA"
+
+#: EPSConverter/templates/index.jinja2:164
+msgid "ALL ZIPPED"
+msgstr "Alles gezipt"
+
+#: EPSConverter/templates/index.jinja2:177
+#: EPSConverter/templates/index.jinja2:266
+msgid "Image"
+msgstr "Afbeelding"
+
+#: EPSConverter/templates/index.jinja2:220
+#: EPSConverter/templates/layout.jinja2:4
+#: EPSConverter/templates/layout.jinja2:7
+#: EPSConverter/templates/layout.jinja2:45
+msgid "Online EPS Converter"
+msgstr "Online EPS-converter"
+
+#: EPSConverter/templates/index.jinja2:230
+msgid "back"
+msgstr "terug"
+
+#: EPSConverter/templates/index.jinja2:236
+msgid "crop"
+msgstr "bijsnijden"
+
+#: EPSConverter/templates/index.jinja2:259
+msgid "Premium"
+msgstr "Premium"
+
+#: EPSConverter/templates/layout.jinja2:30
+msgid "Drag & drop .eps here"
+msgstr "Sleep uw .eps hier naartoe"
+
+#: EPSConverter/templates/layout.jinja2:31
+msgid "pixels"
+msgstr "pixels"
+
+#: EPSConverter/templates/layout.jinja2:32
+msgid "Please select to crop."
+msgstr "Selecteer om bij te snijden."
+
+#: EPSConverter/templates/layout.jinja2:33
+msgid "Failed to crop. please try again."
+msgstr "Bijsnijden is niet gelukt. Probeer het opnieuw."
+
+#: EPSConverter/templates/layout.jinja2:34
+msgid "Success to report. Thank you."
+msgstr "Uw melding is ontvangen. Dank u."
+
+#: EPSConverter/templates/layout.jinja2:50
+msgid "News"
+msgstr "Nieuws"
+
+#: EPSConverter/templates/layout.jinja2:51
+msgid "Pricing"
+msgstr "Prijzen"
+
+#: EPSConverter/templates/layout.jinja2:52
+msgid "Help"
+msgstr "Help"
+
+#: EPSConverter/templates/layout.jinja2:53
+msgid "Login"
+msgstr "Inloggen"
+
+#: EPSConverter/templates/layout.jinja2:180
+msgid "Small size"
+msgstr "Klein formaat"
+
+#: EPSConverter/templates/layout.jinja2:181
+msgid "Medium size"
+msgstr "Medium formaat"
+
+#: EPSConverter/templates/layout.jinja2:182
+msgid "Large size"
+msgstr "Groot formaat"
+
+#: EPSConverter/templates/layout.jinja2:82
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: EPSConverter/templates/layout.jinja2:83
+msgid "Terms of Use"
+msgstr "Gebruiksvoorwaarden"
+
+#: EPSConverter/templates/layout.jinja2:272
+msgid "Cropped image"
+msgstr "Uitgesneden afbeelding"
+
+#: EPSConverter/templates/index.jinja2:73
+msgid "%(num)d Free images"
+msgstr "%(num)d gratis afbeeldingen"
+
+#: EPSConverter/templates/index.jinja2:74
+msgid "Vector files & stock photos"
+msgstr "Vectorbestanden & stockfoto's"
+
+#: EPSConverter/templates/index.jinja2:78
+msgid "Shutterstock partnered with us to give you special offer of <b>%(num)d free vectors</b> or stock photos from millions of safe images. And on top — access to the world’s largest image selection. Sound’s cool? Limited offer. Hurry up!"
+msgstr "Shutterstock is onze zakelijke partner en heeft een speciale aanbieding voor u: <b>%(num)d gratis vectoren</b> of stockfoto's van Shutterstock! Plus - toegang tot 's werelds grootste beeldcollectie. Klinkt goed, hè? Maar het aanbod is beperkt geldig. Profiteer nu!"
+
+#: EPSConverter/templates/index.jinja2:240
+msgid "<b>%(mb)d%%</b> OFF"
+msgstr "<b>%(mb)d%%</b> korting"
+
+#: EPSConverter/templates/index.jinja2:241
+msgid "Vectors special offer"
+msgstr "Speciale aanbieding van vectorgrafieken"
+
+#: EPSConverter/templates/index.jinja2:245
+msgid "iStock partnered with us to give you whopping <b>%(per)d %% discount</b> on their vectors & photos. And access to the largest exclusive image selection. Apply to <b>any credit packs</b> and <b>subscriptions</b>. Sound’s cool? Limited offer. Hurry up!"
+msgstr "iStock is onze zakelijke partner en biedt u een korting van <b>%(per)d %% op</b> vectoren en foto's. U krijgt toegang tot een enorme, exclusieve beeldcollectie. Geldig voor <b>alle creditpakketten</b> en <b>abonnementen</b>.  Klinkt goed, hè? Deze aanbieding is echter beperkt geldig. Ontvang nu korting!"
+
+#: EPSConverter/templates/index.jinja2:247
+msgid "REDEEM NOW"
+msgstr "Nu profiteren"
+
+#: EPSConverter/templates/layout.jinja2:35
+msgid "Image Upscaler"
+msgstr "Afbeelding Upscaler"
+
+#: EPSConverter/templates/index.jinja2:276
+msgid "Batch Conversion"
+msgstr "Meerdere bestanden converteren"
+
+#: EPSConverter/templates/index.jinja2:278
+msgid "Converting multiple EPS vector files at once? No problem. Just upload a ZIP with your EPS files and get a ZIP with JPEGs in return."
+msgstr "Upload meerdere EPS-bestanden in één ZIP-bestand. Zo ontvangt u een ZIP-bestand met JPEG-bestanden."
+
+#: EPSConverter/templates/index.jinja2:280
+msgid "Hi-Res"
+msgstr "Hi-Res"
+
+#: EPSConverter/templates/index.jinja2:281
+msgid "Vector"
+msgstr "Vector"
+
+#: EPSConverter/templates/index.jinja2:290
+msgid "Crop & Extract"
+msgstr "Afbeeldingen bijsnijden"
+
+#: EPSConverter/templates/index.jinja2:292
+msgid "Have a complete control over the image result with no external software, such as Illustrator, needed."
+msgstr "Volledige controle over het beeldresultaat zonder dat u externe software, zoals Illustrator, nodig hebt."
+
+#: EPSConverter/templates/index.jinja2:295
+msgid "Select a region of the EPS file to be extracted into a bitmap or PDF format using just a few clicks."
+msgstr "Selecteer met enkele muisklikken een sectie van het EPS-bestand dat moet worden geconverteerd naar bitmap- of PDF-formaat."
+
+#: EPSConverter/templates/index.jinja2:297
+msgid "Cut-out"
+msgstr "Uitsnijden"
+
+#: EPSConverter/templates/index.jinja2:298
+msgid "Details"
+msgstr "Details"
+
+#: EPSConverter/templates/index.jinja2:313
+msgid "Multiple File Formats"
+msgstr "Diverse bestandsformaten"
+
+#: EPSConverter/templates/index.jinja2:315
+msgid "Converter understands EPS files on the input and delivers multiple formats on the output. And — more formats are coming as we improve Converter."
+msgstr "De converter herkent EPS-bestanden bij invoer en zet ze om in diverse formaten. Er zullen in de toekomst meer formaten worden toegevoegd."
+
+#: EPSConverter/templates/index.jinja2:326
+msgid "Collection of <b>%(num)s million vectors</b>."
+msgstr "Keuze uit <b>%(num)s miljoen vectoren</b>."
+
+#: EPSConverter/templates/index.jinja2:326
+msgid "Get <b>%(num)d vectors & photos</b> for <b>$%(price)d</b> a year</b>"
+msgstr "Krijg <b>%(num)d vectoren & foto's</b> voor slechts <b>€%(price)d,-</b> per jaar"
+
+#: EPSConverter/templates/index.jinja2:327
+msgid "The Converter app is a <a href=\"https://shop.stockphotosecrets.com/\" target=\"_blank\">SPS Shop</a> creation."
+msgstr "De Converter-app is ontwikkeld door <a href=\"https://stockfotos.nl\" target=\"_blank\">SPS Shop</a>."
+
+#: EPSConverter/templates/index.jinja2:331
+msgid "More Cheap Vectors"
+msgstr "Meer vectoren bekijken"
+
+#: EPSConverter/templates/index.jinja2:136
+msgid "Select issue you experienced"
+msgstr "Selecteer het probleem dat u hebt ondervonden"
+
+#: EPSConverter/templates/index.jinja2:137
+msgid "File not converting at all"
+msgstr "Bestand is helemaal niet geconverteerd"
+
+#: EPSConverter/templates/index.jinja2:138
+msgid "Result looks pixelated"
+msgstr "Eindresultaat ziet er pixelachtig uit"
+
+#: EPSConverter/templates/index.jinja2:139
+msgid "Graphics too small"
+msgstr "Grafieken zijn te klein"
+
+#: EPSConverter/templates/index.jinja2:140
+msgid "Graphics not visible"
+msgstr "Grafieken zijn niet zichtbaar"
+
+#: EPSConverter/templates/index.jinja2:141
+msgid "Othere"
+msgstr "Anders"
+
+#: EPSConverter/templates/index.jinja2:437
+msgid "Here is your coupon code"
+msgstr "Hier is uw couponcode"
+
+#: EPSConverter/templates/index.jinja2:438
+msgid "Code is copied. Use code on iStock website."
+msgstr "De code is gekopieerd. U kunt de code op de website van iStock gebruiken."
+
+#: EPSConverter/templates/index.jinja2:444
+msgid "Go to Website"
+msgstr "Ga naar de website"
+
+#: EPSConverter/templates/index.jinja2:454
+msgid "Exclusive Deal"
+msgstr "Exclusieve aanbieding"
+
+#: EPSConverter/templates/index.jinja2:454
+msgid "%(num)d%% OFF on iStock Credits and iStock Subscriptions!"
+msgstr "%(num)d%% korting op credits en abonnementen van iStock!"
+
+#: EPSConverter/templates/index.jinja2:478
+msgid "Exclusive Deal at"
+msgstr "Exclusieve aanbieding van"
+
+#: EPSConverter/templates/index.jinja2:476
+msgid "Free Images"
+msgstr "Gratis Afbeeldingen"
+
+#: EPSConverter/templates/index.jinja2:252
+msgid "<b>Download</b> similar vectors — <b>%(num)d vectors free</b>"
+msgstr "<b>Download</b> soortgelijke vectoren — <b>%(num)d gratis vectoren</b>"
+
+#: EPSConverter/templates/index.jinja2:258
+msgid "<b>%(num)d vectors free</b> from"
+msgstr "%(num)d vectoren zonder"
+
+#: EPSConverter/templates/index.jinja2:262
+msgid "More Vectors"
+msgstr "Meer vectoren"
